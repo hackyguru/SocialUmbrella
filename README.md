@@ -20,3 +20,13 @@ https://github.com/hackyguru/VirtualClassroom
 ## Chatbot
 
 The files that belong to the chatbot are given inside the chatbot directory.
+
+## UI 
+The UI was developed with Framer. We are trying to integrate it within the time constrains.
+
+## The Team
+Development - Kumaraguru
+Design - Emma Thomas and Mridula Kalaiselvan
+
+## Thank You Note
+We'd like to thank DishTV India for the amazing hackathon!
