@@ -1,4 +1,4 @@
-# Social Umbrella = Dishathon2020
+# Social Umbrella - Dishathon2020
 
 ## Building and running on localhost
 
@@ -16,3 +16,7 @@ npm run start
 
 Repository which contains all the code for the virtual classroom
 https://github.com/hackyguru/VirtualClassroom
+
+## Chatbot
+
+The files that belong to the chatbot are given inside the chatbot directory.
